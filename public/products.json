@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Kanapa z funkcją spania LORD 3F",
+    "price": 2099,
+    "color": "szary",
+    "features": "funkcja spania, pojemnik na pościel",
+    "url": "https://meb24.pl/meble/kanapa-z-funkcja-spania-lord-3f-tapicerowana"
+  },
+  {
+    "name": "Fotel LORD 1F",
+    "price": 999,
+    "color": "szary",
+    "features": "tapicerowany fotel, dopasowany do kanapy LORD",
+    "url": "https://meb24.pl/meble/fotel-lord-1f-tapicerowany"
+  },
+  {
+    "name": "Kanapa AROS 2F",
+    "price": 1899,
+    "color": "ciemny szary",
+    "features": "funkcja spania, pojemnik na pościel",
+    "url": "https://meb24.pl/meble/kanapa-aros-2f-tapicerowana"
+  },
+  {
+    "name": "Sofa Cindy II",
+    "price": 1799,
+    "color": "jasny beż",
+    "features": "styl skandynawski, wysokie nóżki",
+    "url": "https://meb24.pl/meble/sofa-tapicerowana-cindy-ii-w-stylu-skandynawskim"
+  },
+  {
+    "name": "Sofa Cindy III",
+    "price": 1999,
+    "color": "beżowy",
+    "features": "styl skandynawski, funkcja spania",
+    "url": "https://meb24.pl/meble/sofa-tapicerowana-cindy-iii-w-stylu-skandynawskim"
+  },
+  {
+    "name": "Fotel Cindy",
+    "price": 999,
+    "color": "beżowy",
+    "features": "styl skandynawski, dopasowany do sof Cindy",
+    "url": "https://meb24.pl/meble/fotel-tapicerowany-cindy-w-stylu-skandynawskim"
+  }
+]
